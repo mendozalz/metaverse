@@ -15,7 +15,7 @@ Proyecto que me causa mucha ilusión de la cual estare usando las siguientes té
 * HeyMint
 
 
-Ver en [Netlify](https://usecontext-translator.netlify.app/)
+Ver en [Vercel](https://mendozalz-metaverse.vercel.app/)
 
 
 ## Instalación
