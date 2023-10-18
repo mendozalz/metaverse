@@ -16,7 +16,7 @@ Experimentado en el mundo del Metaverso.
 
 17.10.23 - Uff nadie dijo que seria facil, gracias a Dios encontre donde apoyarme de algo.
 
-Ver en [Netlify](https://usecontext-translator.netlify.app/)
+Ver en [Vercel](https://mendozalz-metaverse.vercel.app/)
 
 
 ## Instalación
