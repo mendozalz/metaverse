@@ -6,7 +6,7 @@ Experimentado en el mundo del Metaverso.
   <img src="public\Mendozalz Metaverse.gif" alt="metaverse" />
 </p>
 
-Proyecto que me causa mucha ilusión de la cual estare usando las siguientes técnologias y en el camino ir aprendiendo:
+16.10.23 - Proyecto que me causa mucha ilusión de la cual estare usando las siguientes técnologias y en el camino ir aprendiendo:
 
 * Next.js
 * Three.js
@@ -14,6 +14,7 @@ Proyecto que me causa mucha ilusión de la cual estare usando las siguientes té
 * RainbowKit con Wagmi
 * HeyMint
 
+17.10.23 - Uff nadie dijo que seria facil, gracias a Dios encontre donde apoyarme de algo.
 
 Ver en [Netlify](https://usecontext-translator.netlify.app/)
 

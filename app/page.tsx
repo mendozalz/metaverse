@@ -4,12 +4,12 @@ import { Canvas } from "@react-three/fiber";
 import { Experience } from "../components/Experience";
 import { KeyboardControls, KeyboardControlsEntry } from "@react-three/drei";
 
-export type Controls = "atras" | "adelante" | "izquierda" | "derecha"
+export type Controls = "adelante" | "atras" | "izquierda" | "derecha"
 
 export default function Home(){
   const map: KeyboardControlsEntry<Controls>[]=[
     {name:"adelante", keys:["ArrowUp", "KeyW"]},
-    {name:"atras", keys:["ArrowDown", "KeyA"]},
+    {name:"atras", keys:["ArrowDown", "KeyS"]},
     {name:"izquierda", keys:["ArrowLeft", "KeyA"]},
     {name:"derecha", keys:["ArrowRight", "KeyD"]},
   ]
