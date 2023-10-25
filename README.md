@@ -3,7 +3,7 @@
 Experimentado en el mundo del Metaverso.
 
 <p align="center">
-  <img src="public\Mendozalz Metaverse.gif" alt="metaverse" />
+  <img src="public\assets\Mendozalz Metaverse.gif" alt="metaverse" />
 </p>
 
 16.10.23 - Proyecto que me causa mucha ilusión de la cual estare usando las siguientes técnologias y en el camino ir aprendiendo:
