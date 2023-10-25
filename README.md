@@ -16,6 +16,13 @@ Experimentado en el mundo del Metaverso.
 
 17.10.23 - Uff nadie dijo que seria facil, gracias a Dios encontre donde apoyarme de algo.
 
+24.10.23 - No pense que fuese tan dificil siguiendo los pasos pero lo cierto es que cuando quieres aplicar tu propia logica todo se vuelve más complicado, aqui mi avance.
+
+<p align="center">
+  <img src="public\assets\Mendozalz Metaverse_NPC.gif" alt="metaverse2" />
+</p>
+
+
 Ver en [Vercel](https://mendozalz-metaverse.vercel.app/)
 
 
